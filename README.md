@@ -1,6 +1,6 @@
 # Hello, I'm Torikul Islam Tanim! 👋
 
-I'm a passionate developer who loves developing web applications using React and the MERN stack (MongoDB, Express.js, React, Node.js). I'm passionate about turning creative concepts into practical code."
+I'm a passionate developer who loves developing web applications using React and the MERN stack (MongoDB, Express.js, React, Node.js). I'm passionate about turning creative concepts into practical code.
 
 
 
