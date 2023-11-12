@@ -16,8 +16,6 @@ I'm a passionate developer who loves developing web applications using React and
 
 Here are a few projects I've worked on:
 
-## 💼 Projects
-
 1. **HandyMate**:
    - Description: HandyMate is an handyman service platform. On the home page, users can explore available services and view information about service providers. Additional features include:
       1. Users can browse all services on the All Services page.
