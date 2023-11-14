@@ -40,8 +40,6 @@ HandyMate is a handyman service platform designed for user convenience. Key feat
 
 #### Description
 
-Explore fashion effortlessly with AttireHive.
-
 1. Users can effortlessly add their favorite products with just a few clicks.
 2. Details of each product are available, with the option to add them to the cart.
 3. Check out, remove items, and easily update product details.
@@ -54,7 +52,7 @@ Explore fashion effortlessly with AttireHive.
 - MongoDB
 - Firebase
 
-[Visit AttireHive](https://attirehive-auth.web.app/) and start your hassle-free fashion journey!
+[Visit AttireHive](https://attirehive-auth.web.app/)
 
 ### 3. Social Event Management Website
 
