@@ -1,9 +1,8 @@
-# Hello, I'm Torikul Islam Tanim! 👋
+Hello, I'm Torikul Islam Tanim! 👋
 
-A passionate developer who loves crafting dynamic and responsive web applications.
+A passionate developer who loves crafting dynamic web applications.
 
-## 🚀 My Skills
-
+**Skills:**
 - React, JavaScript, HTML, CSS, Tailwind CSS
 - Node.js, Express.js
 - MongoDB
@@ -11,13 +10,11 @@ A passionate developer who loves crafting dynamic and responsive web application
 - Git
 - Firebase
 
-## 🌱 What I'm Currently Learning
+**Currently Learning:**
+Diving deep into Next.js and Mongoose for further enhancement.
 
-I'm on a constant journey of learning and self-improvement. Currently, I'm diving deep into Next.js and Mongoose.
-
-## 📫 Let's Connect
-
-I'm open to collaborating on exciting projects, sharing knowledge, or just having a friendly chat. You can find me on:
+**Let's Connect:**
+I'm open to collaborating on exciting projects, sharing knowledge, or just having a friendly chat.
 
 - LinkedIn: [Torikul Tanim](https://www.linkedin.com/in/torikul-tanim/)
 - Facebook: [Torikul Swe](https://facebook.com/torikulswe)
