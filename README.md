@@ -32,6 +32,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
 </p>
 
+
+<h3 align="center">👋 About me</h3>
 <!-- Current Work and Learning -->
 - 🔭 I’m currently working on [GoTrip - A Travel Agency](https://go-trip-web.web.app/)
 - 🌱 I’m currently learning **Next.js and Mongoose for further enhancement**
