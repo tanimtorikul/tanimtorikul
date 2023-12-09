@@ -32,42 +32,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
 </p>
 
-<h1 align="center">👋 About me</h1>
-<div style="text-align: center;">
+<h1 align="left">👋 About me</h1>
+<div align="left">
   <!-- Current Work and Learning -->
-  <div style="text-align: left; display: inline-block;">
+  -  I’m currently working on <a href="https://go-trip-web.web.app/" style="text-decoration: none;"><strong>GoTrip - A Travel Agency</strong></a> 🌐
 
-    <!-- Using a CSS class for the list items -->
-    <style>
-      .list-item {
-        list-style-position: inside;
-        padding-left: 0; /* Remove default padding */
-        margin-left: 0; /* Remove default margin */
-      }
-    </style>
+  <!-- Learning -->
+  - 🌱 I’m currently learning <strong>Next.js and Mongoose for further enhancement</strong>
 
-    <!-- List items -->
-    <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
-      <li class="list-item">I’m currently working on <a href="https://go-trip-web.web.app/" style="text-decoration: none;"><strong>GoTrip - A Travel Agency</strong></a> 🌐</li>
+  <!-- Projects Link -->
+  - 👨‍💻 All of my projects are available at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>https://torikultanim.web.app/</strong></a>
 
-      <!-- Learning -->
-      <li class="list-item">🌱 I’m currently learning <strong>Next.js and Mongoose for further enhancement</strong></li>
+  <!-- Ask Me About -->
+  - 💬 Ask me about <strong>ReactJS, MERN</strong>
 
-      <!-- Projects Link -->
-      <li class="list-item">👨‍💻 All of my projects are available at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>https://torikultanim.web.app/</strong></a></li>
+  <!-- Contact Information -->
+  - 📫 How to reach me: <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a>
 
-      <!-- Ask Me About -->
-      <li class="list-item">💬 Ask me about <strong>ReactJS, MERN</strong></li>
-
-      <!-- Contact Information -->
-      <li class="list-item">📫 How to reach me: <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a></li>
-
-      <!-- Experiences -->
-      <li class="list-item">📄 Know about my experiences <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>Resume</strong></a></li>
-    </ul>
-  </div>
+  <!-- Experiences -->
+  - 📄 My resume <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>Resume</strong></a>
 </div>
-
 
 
 <!-- Connect with me -->
