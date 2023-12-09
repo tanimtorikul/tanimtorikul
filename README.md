@@ -1,4 +1,3 @@
-<img src="path/to/your/cover-image.jpg" alt="Cover Image" style="width: 100%; max-height: 300px; object-fit: cover;">
 <!-- Your Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
 <h3 align="center">MERN Stack Developer | Front End Specialist | Creating seamless user experiences with clean and efficient code</h3>
@@ -10,57 +9,64 @@
 
 <!-- Technologies and Tools -->
 <h3 align="left">Technologies and Tools:</h3>
-<p style="display: flex; align-items: center;">
+<p align="left">
   <!-- Add your preferred styling for each tool/language icon -->
-  <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
-      <div>HTML</div>
+      <div align="center">HTML5</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3 - Cascading Style Sheets" width="40" height="40"/>
-      <div>CSS</div>
+      <div align="center">CSS3</div>
     </div>
-    <!-- Add similar blocks for other icons -->
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-      <div>Javascript</div>
+      <div align="center">JavaScript</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React.js" width="40" height="40"/>
-      <div>React</div>
+      <div align="center">React.js</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-      <div>NodeJS</div>
+      <div align="center">Node.js</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express.js" width="40" height="40"/>
-      <div>ExpressJS</div>
+      <div align="center">Express.js</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-      <div>MongoDB</div>
+      <div align="center">MongoDB</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
-      <div>Bootstrap</div>
+      <div align="center">Bootstrap</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
-      <div>Tailwind CSS</div>
+      <div align="center">Tailwind CSS</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
+      <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" title="Gatsby.js" width="40" height="40"/>
+      <div align="center">Gatsby.js</div>
+    </div>
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
+      <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="Hexo" title="Hexo" width="40" height="40"/>
+      <div align="center">Hexo</div>
+    </div>
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
-      <div>Figma</div>
+      <div align="center">Figma</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
-      <div>Postman</div>
+      <div align="center">Postman</div>
     </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
+    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
-      <div>Git</div>
+      <div align="center">Git</div>
     </div>
   </div>
 </p>
@@ -92,25 +98,17 @@
   </a>
 </p>
 
-<!-- GitHub Top Languages -->
-<div style="margin-bottom: 20px;">
-  <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimtorikul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-</div>
-
 <!-- GitHub Stats -->
-<div style="margin-bottom: 20px;">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimtorikul&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-</div>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimtorikul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<!-- GitHub Streak Stats -->
-<div>
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
-  </p>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimtorikul&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
+</p>
 
 
