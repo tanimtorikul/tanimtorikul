@@ -5,7 +5,7 @@
 
 <!-- Your Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
-<h2 align="center">MERN Stack Developer | Front End Specialist | Creating seamless user experiences with clean and efficient code</h2>
+<h2 align="center">MERN Stack Developer | Front End Specialist | Crafting delightful user experiences with clean and efficient code</h2>
 
 <!-- Profile Views Badge -->
 <p align="left">
@@ -15,7 +15,6 @@
 <!-- Technologies and Tools -->
 <h1 align="center">Technologies and Tools:</h1>
 <p align="center">
-  <!-- Add your preferred styling for each tool/language icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3 - Cascading Style Sheets" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
@@ -30,29 +29,30 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+  <!-- Add any additional technologies here -->
 </p>
 
+<!-- About Me Section -->
 <h1 align="left">👋 About me</h1>
 <div align="left">
   <!-- Current Work and Learning -->
   -  I’m currently working on <a href="https://go-trip-web.web.app/" style="text-decoration: none;"><strong>GoTrip - A Travel Agency</strong></a> 🌐
 
   <!-- Learning -->
-  - 🌱 I’m currently learning <strong>Next.js and Mongoose for further enhancement</strong>
+  - 🌱 I’m currently mastering <strong>Next.js and Mongoose for further enhancement</strong>
 
   <!-- Projects Link -->
-  - 👨‍💻 All of my projects are available at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>https://torikultanim.web.app/</strong></a>
+  - 👨‍💻 Explore my projects at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>https://torikultanim.web.app/</strong></a>
 
   <!-- Ask Me About -->
-  - 💬 Ask me about <strong>ReactJS, MERN</strong>
+  - 💬 Let's talk about <strong>ReactJS, MERN</strong>
 
   <!-- Contact Information -->
-  - 📫 How to reach me: <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a>
+  - 📫 Reach me at <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a>
 
   <!-- Experiences -->
-  - 📄 My resume <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>Resume</strong></a>
+  - 📄 Check out my resume <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>here</strong></a>
 </div>
-
 
 <!-- Connect with me -->
 <h1 align="center">Connect with me:</h1>
@@ -65,15 +65,23 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats with Titles -->
+<h1 align="center">GitHub Stats:</h1>
+
+<!-- Top Languages Section -->
 <p align="center">
+  <strong>Top Languages:</strong>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimtorikul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- GitHub Stats Section -->
 <p align="center">
+  <strong>GitHub Stats:</strong>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimtorikul&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+<!-- GitHub Streak Section -->
 <p align="center">
+  <strong>GitHub Streak:</strong>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
 </p>
