@@ -1,3 +1,4 @@
+<img src="path/to/your/cover-image.jpg" alt="Cover Image" style="width: 100%; max-height: 300px; object-fit: cover;">
 <!-- Your Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
 <h3 align="center">MERN Stack Developer | Front End Specialist | Creating seamless user experiences with clean and efficient code</h3>
