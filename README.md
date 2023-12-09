@@ -9,7 +9,7 @@
 
 <!-- Technologies and Tools -->
 <h3 align="left">Technologies and Tools:</h3>
-<p align="left">
+<p align="center">
   <!-- Add your preferred styling for each tool/language icon -->
   <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
     <div style="background-color: #ffffff; padding: 5px; margin: 5px; text-align: center;">
