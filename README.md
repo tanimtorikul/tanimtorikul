@@ -33,28 +33,26 @@
 </p>
 
 <h1 align="center">👋 About me</h1>
-<p align="center">
-<!-- Current Work and Learning -->
--  I’m currently working on [GoTrip - A Travel Agency](https://go-trip-web.web.app/)
+<div align="center">
+  <!-- Current Work and Learning -->
+  -  I’m currently working on <a href="https://go-trip-web.web.app/" style="text-decoration: none;"><strong>GoTrip - A Travel Agency</strong></a> 🌐
 
-- 🌱 I’m 🔭 currently learning **Next.js and Mongoose for further enhancement**
+  <!-- Learning -->
+  - 🌱 I’m currently learning <strong>Next.js and Mongoose for further enhancement</strong>
 
-<!-- Projects Link -->
+  <!-- Projects Link -->
+  - 👨‍💻 All of my projects are available at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>https://torikultanim.web.app/</strong></a>
 
-- 👨‍💻 All of my projects are available at [https://torikultanim.web.app/](https://torikultanim.web.app/)
+  <!-- Ask Me About -->
+  - 💬 Ask me about <strong>ReactJS, MERN</strong>
 
-<!-- Ask Me About -->
+  <!-- Contact Information -->
+  - 📫 How to reach me: <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a>
 
-- 💬 Ask me about **ReactJS, MERN**
+  <!-- Experiences -->
+  - 📄 My resume <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>Resume</strong></a>
+</div>
 
-<!-- Contact Information -->
-
-- 📫 How to reach me: [torikulswe@gmail.com](mailto:torikulswe@gmail.com)
-
-<!-- Experiences -->
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link)
-</p>
 
 <!-- Connect with me -->
 <h1 align="center">Connect with me:</h1>
