@@ -32,25 +32,29 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
 </p>
 
-
-<h1 align="left">👋 About me</h1>
+<h1 align="center">👋 About me</h1>
+<p align="center">
 <!-- Current Work and Learning -->
-- 🔭 I’m currently working on [GoTrip - A Travel Agency](https://go-trip-web.web.app/)
+-  I’m currently working on [GoTrip - A Travel Agency](https://go-trip-web.web.app/)
 
-
-- 🌱 I’m currently learning **Next.js and Mongoose for further enhancement**
+- 🌱 I’m 🔭 currently learning **Next.js and Mongoose for further enhancement**
 
 <!-- Projects Link -->
+
 - 👨‍💻 All of my projects are available at [https://torikultanim.web.app/](https://torikultanim.web.app/)
 
 <!-- Ask Me About -->
+
 - 💬 Ask me about **ReactJS, MERN**
 
 <!-- Contact Information -->
+
 - 📫 How to reach me: [torikulswe@gmail.com](mailto:torikulswe@gmail.com)
 
 <!-- Experiences -->
+
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link)
+</p>
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -75,5 +79,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
 </p>
-
-
