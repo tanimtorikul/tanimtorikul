@@ -8,67 +8,23 @@
 </p>
 
 <!-- Technologies and Tools -->
-<h3 align="left">Technologies and Tools:</h3>
-<p align="left">
+<h3 align="center">Technologies and Tools:</h3>
+<p align="center">
   <!-- Add your preferred styling for each tool/language icon -->
-  <div style="display: flex; flex-wrap: wrap;">
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
-      <div align="center">HTML5</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3 - Cascading Style Sheets" width="40" height="40"/>
-      <div align="center">CSS3</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-      <div align="center">JavaScript</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React.js" width="40" height="40"/>
-      <div align="center">React.js</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-      <div align="center">Node.js</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express.js" width="40" height="40"/>
-      <div align="center">Express.js</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-      <div align="center">MongoDB</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
-      <div align="center">Bootstrap</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
-      <div align="center">Tailwind CSS</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" title="Gatsby.js" width="40" height="40"/>
-      <div align="center">Gatsby.js</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="Hexo" title="Hexo" width="40" height="40"/>
-      <div align="center">Hexo</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
-      <div align="center">Figma</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
-      <div align="center">Postman</div>
-    </div>
-    <div style="background-color: #ffffff; padding: 5px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
-      <div align="center">Git</div>
-    </div>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3 - Cascading Style Sheets" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" title="Gatsby.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="Hexo" title="Hexo" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
 </p>
 
 <!-- Current Work and Learning -->
