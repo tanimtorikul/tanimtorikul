@@ -5,7 +5,7 @@
 
 <!-- Your Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
-<h3 align="center">MERN Stack Developer | Front End Specialist | Creating seamless user experiences with clean and efficient code</h3>
+<h2 align="center">MERN Stack Developer | Front End Specialist | Creating seamless user experiences with clean and efficient code</h2>
 
 <!-- Profile Views Badge -->
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <!-- Technologies and Tools -->
-<h3 align="center">Technologies and Tools:</h3>
+<h1 align="center">Technologies and Tools:</h1>
 <p align="center">
   <!-- Add your preferred styling for each tool/language icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
@@ -33,7 +33,7 @@
 </p>
 
 
-<h3 align="center">👋 About me</h3>
+<h1 align="left">👋 About me</h1>
 <!-- Current Work and Learning -->
 - 🔭 I’m currently working on [GoTrip - A Travel Agency](https://go-trip-web.web.app/)
 - 🌱 I’m currently learning **Next.js and Mongoose for further enhancement**
