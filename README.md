@@ -1,3 +1,8 @@
+<!-- Your Cover Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanimtorikul/tanimtorikul/main/assets/torikul.png" alt="Cover Image" style="width: 100%; height: auto;">
+</p>
+
 <!-- Your Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
 <h3 align="center">MERN Stack Developer | Front End Specialist | Creating seamless user experiences with clean and efficient code</h3>
