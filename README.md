@@ -55,15 +55,15 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="left">
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimtorikul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimtorikul&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
 </p>
 
