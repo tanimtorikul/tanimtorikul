@@ -1,9 +1,9 @@
-<!-- Your Cover Image -->
+<!-- Cover Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanimtorikul/tanimtorikul/main/assets/torikul.png" alt="Cover Image" style="width: 100%; height: auto;">
 </p>
 
-<!-- Your Name and Introduction -->
+<!-- Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
 <h2 align="center">MERN Stack Developer | Front End Specialist | Crafting delightful user experiences with clean and efficient code</h2>
 
@@ -29,7 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
-  <!-- Add any additional technologies here -->
 </p>
 
 <!-- About Me Section -->
@@ -50,7 +49,7 @@
   <!-- Contact Information -->
   - 📫 Reach me at <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a>
 
-  <!-- Experiences -->
+  <!-- Resume -->
   - 📄 Check out my resume <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>here</strong></a>
 </div>
 
@@ -70,18 +69,15 @@
 
 <!-- Top Languages Section -->
 <p align="center">
-  <strong>Top Languages:</strong>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimtorikul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <strong>GitHub Stats:</strong>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimtorikul&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak Section -->
 <p align="center">
-  <strong>GitHub Streak:</strong>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
 </p>
