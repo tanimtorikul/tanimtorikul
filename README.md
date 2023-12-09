@@ -36,6 +36,7 @@
 <h1 align="left">👋 About me</h1>
 <!-- Current Work and Learning -->
 - 🔭 I’m currently working on [GoTrip - A Travel Agency](https://go-trip-web.web.app/)
+
 - 🌱 I’m currently learning **Next.js and Mongoose for further enhancement**
 
 <!-- Projects Link -->
