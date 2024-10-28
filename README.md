@@ -5,7 +5,8 @@
 
 <!-- Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
-<h2 align="center">MERN Stack Developer | Front End Specialist | Crafting delightful user experiences with clean and efficient code</h2>
+<h2 align="center">Frontend Developer | MERN Stack Developer</h2>
+<h3 align="center">Crafting delightful user experiences with clean and efficient code</h3>
 
 <!-- Profile Views Badge -->
 <p align="left">
@@ -13,7 +14,7 @@
 </p>
 
 <!-- Technologies and Tools -->
-<h1 align="center">Technologies and Tools:</h1>
+<h1 align="center">🛠️ Technologies and Tools:</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3 - Cascading Style Sheets" width="40" height="40"/>
@@ -30,29 +31,18 @@
 </p>
 
 <!-- About Me Section -->
-<h1 align="left">👋 About me</h1>
+<h1 align="left">👋 About Me</h1>
 <div align="left">
-  <!-- Current Work and Learning -->
-  -  I’m currently working on <a href="https://go-trip-web.web.app/" style="text-decoration: none;"><strong>GoTrip - A Travel Agency</strong></a> 🌐
-
-  <!-- Learning -->
-  - 🌱 I’m currently mastering <strong>Next.js and Mongoose for further enhancement</strong>
-
-  <!-- Projects Link -->
-  - 👨‍💻 Explore my projects at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>https://torikultanim.web.app/</strong></a>
-
-  <!-- Ask Me About -->
-  - 💬 Let's talk about <strong>ReactJS, MERN</strong>
-
-  <!-- Contact Information -->
-  - 📫 Reach me at <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a>
-
-  <!-- Resume -->
-  - 📄 Check out my resume <a href="https://drive.google.com/file/d/1gLLqAbG25CppomFPT5o5AZ12bj594lgT/view?usp=drive_link" style="text-decoration: none;"><strong>here</strong></a>
+  - 🌐 I’m currently working on <a href="https://kazimart-web.web.app/" style="text-decoration: none;"><strong>Kazimart - An ecommerce</strong></a> <br>
+  - 🌱 I’m mastering <strong>Next.js and Mongoose</strong> for further enhancement <br>
+  - 👨‍💻 Explore my projects at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>my portfolio</strong></a> <br>
+  - 💬 Let's talk about <strong>ReactJS, MERN, and web development</strong> <br>
+  - 📫 Reach me at <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a> <br>
+  - 📄 Check out my resume <a href="https://drive.google.com/file/d/1eJhIoPkC0FvtMP2sotIMYtRAZ6Lc8KMs/view?usp=sharing" style="text-decoration: none;"><strong>here</strong></a>
 </div>
 
-<!-- Connect with me -->
-<h1 align="center">Connect with me:</h1>
+<!-- Connect with Me -->
+<h1 align="center">🔗 Connect with Me:</h1>
 <p align="center">
   <a href="https://linkedin.com/in/torikul-tanim" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -62,20 +52,10 @@
   </a>
 </p>
 
-<!-- GitHub Stats with Titles -->
-<h1 align="center">GitHub Stats:</h1>
-
-<!-- Top Languages Section -->
+<!-- GitHub Stats -->
+<h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimtorikul&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<!-- GitHub Stats Section -->
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimtorikul&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<!-- GitHub Streak Section -->
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimtorikul" alt="GitHub Streak" />
 </p>
