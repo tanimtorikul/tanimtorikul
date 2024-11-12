@@ -1,12 +1,6 @@
-<!-- Cover Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanimtorikul/tanimtorikul/main/assets/torikul.png" alt="Cover Image" style="width: 100%; height: auto;">
-</p>
-
 <!-- Name and Introduction -->
 <h1 align="center">Hi 👋, I'm Torikul Islam Tanim</h1>
-<h2 align="center">Frontend Developer | MERN Stack Developer</h2>
-<h3 align="center">Crafting delightful user experiences with clean and efficient code</h3>
+<h2 align="center">A passionate Frontend Developer | MERN Stack Developer</h2>
 
 <!-- Profile Views Badge -->
 <p align="left">
@@ -14,7 +8,7 @@
 </p>
 
 <!-- Technologies and Tools -->
-<h1 align="center">🛠️ Technologies and Tools:</h1>
+<h1 align="center">🛠️ Languages and Tools:</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5 - HyperText Markup Language" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3 - Cascading Style Sheets" width="40" height="40"/>
@@ -23,8 +17,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
@@ -36,9 +30,8 @@
   - 🌐 I’m currently working on <a href="https://kazimart-web.web.app/" style="text-decoration: none;"><strong>Kazimart - An ecommerce</strong></a> <br>
   - 🌱 I’m mastering <strong>Next.js and Mongoose</strong> for further enhancement <br>
   - 👨‍💻 Explore my projects at <a href="https://torikultanim.web.app/" style="text-decoration: none;"><strong>my portfolio</strong></a> <br>
-  - 💬 Let's talk about <strong>ReactJS, MERN, and web development</strong> <br>
   - 📫 Reach me at <a href="mailto:torikulswe@gmail.com" style="text-decoration: none;"><strong>torikulswe@gmail.com</strong></a> <br>
-  - 📄 Check out my resume <a href="https://drive.google.com/file/d/1eJhIoPkC0FvtMP2sotIMYtRAZ6Lc8KMs/view?usp=sharing" style="text-decoration: none;"><strong>here</strong></a>
+  - 📄 Check out my resume <a href="https://drive.google.com/file/d/19dzV4J1bCloWlMCdZFRGTJbQkXd7o3Y4/view?usp=sharing" style="text-decoration: none;"><strong>here</strong></a>
 </div>
 
 <!-- Connect with Me -->
